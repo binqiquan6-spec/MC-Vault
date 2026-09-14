@@ -67,3 +67,11 @@ aliases: [导航报告]
 - 本地备份远程 `origin` 指向 `.nav-backup/git-remote.git`，并生成 `vault-backup-*.bundle` 完整历史备份。
 - 由于工具沙箱禁止 Git 的 MSYS 子进程和 HTTPS，Shell 无法直接 push；Obsidian Git 插件或换到 GitHub 后可正常推送。
 - 切换到 GitHub：在浏览器创建私有仓库后，把仓库 URL 提供给 AI，执行 `git remote set-url origin <url>` 即可；PAT 在 Obsidian Git 中配置。
+
+
+## 2026-09-14 GitHub 远程配置
+
+- `origin` 已切换为：`https://github.com/binqiquan6-spec/MC-Vault.git`
+- 沙箱环境无法完成 GitHub HTTPS 推送（TLS/schannel 被限制），但远程地址已写入 `.git/config`。
+- 推送方式：在 Obsidian 中执行命令面板 `Git: Push`，或使用左侧 Git 源码控制视图。
+- 认证：GitHub 用户名 + Personal Access Token（PAT）；PAT 不要提交到仓库，也不要发到聊天中。

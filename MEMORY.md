@@ -56,3 +56,10 @@
 - Homepage plugin data.json is configured with value `_graph/MC 项目总览` (no .md extension), kind File, openOnStartup true. Restart Obsidian to load it.
 - The `origin` remote points to `.nav-backup/git-remote.git` as an offline backup. A `vault-backup-*.bundle` also contains the complete history.
 - Shell push/clone is blocked by the sandbox (Git MSYS sh.exe and HTTPS restrictions). Use Obsidian Git or the GitHub web UI to push when a remote URL and credentials are available.
+
+
+## GitHub Remote (2026-09-14)
+
+- Origin remote: `https://github.com/binqiquan6-spec/MC-Vault.git`
+- Shell cannot push because the sandbox blocks GitHub HTTPS/TLS; push is performed from Obsidian Git with a PAT.
+- Local offline backup remote `local-backup` points to `.nav-backup/git-remote.git`; bundles are stored next to it.
