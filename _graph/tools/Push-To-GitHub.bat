@@ -9,13 +9,12 @@ echo.
 git status -sb
 echo.
 echo Pushing...
-git push -u origin main
+git -c http.sslBackend=openssl push -u origin main
 echo.
 if %ERRORLEVEL% neq 0 (
-    echo.
     echo [FAILED] Check VPN/network and GitHub PAT.
+    echo If a browser or credential window opened, complete the login there.
 ) else (
-    echo.
     echo [OK] Push completed.
 )
 echo.
