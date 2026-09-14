@@ -1,4 +1,4 @@
-﻿---
+---
 graph_role: vault-hub
 scope: minecraft-workspace
 aliases: [总目录, 总索引, MOC, Home, 首页]
