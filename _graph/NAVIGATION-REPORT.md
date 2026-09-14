@@ -75,3 +75,9 @@ aliases: [导航报告]
 - 沙箱环境无法完成 GitHub HTTPS 推送（TLS/schannel 被限制），但远程地址已写入 `.git/config`。
 - 推送方式：在 Obsidian 中执行命令面板 `Git: Push`，或使用左侧 Git 源码控制视图。
 - 认证：GitHub 用户名 + Personal Access Token（PAT）；PAT 不要提交到仓库，也不要发到聊天中。
+
+
+## GitHub Push Helper
+
+- `_graph/tools/Push-To-GitHub.bat`：在普通 Windows 会话中双击运行即可执行 `git push -u origin main`，绕开沙箱网络限制。
+- 最新本地提交为 `b61c1f6 Configure GitHub origin remote`，尚未推送。
