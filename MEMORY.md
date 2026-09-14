@@ -49,3 +49,10 @@
 - Folder Overview dynamic blocks were added to the master entry for `_graph` and `bonded_companions` only; the excluded folder is never listed.
 - The vault Git repository was initialized with first commit `8dee2f8` (157 text files); build outputs, JARs, PNGs, `.nav-backup`, `useful_recipes_1.21.1_neoforge/` and project source are ignored.
 - Obsidian Git stays in manual mode until E1-01 is DONE.
+
+
+## Homepage and Local Git Remote (2026-09-14)
+
+- Homepage plugin data.json is configured with value `_graph/MC 项目总览` (no .md extension), kind File, openOnStartup true. Restart Obsidian to load it.
+- The `origin` remote points to `.nav-backup/git-remote.git` as an offline backup. A `vault-backup-*.bundle` also contains the complete history.
+- Shell push/clone is blocked by the sandbox (Git MSYS sh.exe and HTTPS restrictions). Use Obsidian Git or the GitHub web UI to push when a remote URL and credentials are available.

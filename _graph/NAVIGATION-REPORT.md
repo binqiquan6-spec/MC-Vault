@@ -59,3 +59,11 @@ aliases: [导航报告]
 - 总目录已加入 Folder Overview 动态索引代码块（限定 `_graph` 与 `bonded_companions`）。
 - Vault Git 仓库已初始化并完成首次提交：`8dee2f8 Initialize vault navigation system and knowledge base`（157 个文本文件，工作区干净）。
 - Obsidian Git 保持手动模式（自动提交/推送间隔默认 0），不会在 E1-01 期间自动提交。
+
+
+## 2026-09-14 补充配置
+
+- Homepage `data.json` 已写入：`value = _graph/MC 项目总览`（不带 .md），`openOnStartup = true`；重启 Obsidian 后生效。
+- 本地备份远程 `origin` 指向 `.nav-backup/git-remote.git`，并生成 `vault-backup-*.bundle` 完整历史备份。
+- 由于工具沙箱禁止 Git 的 MSYS 子进程和 HTTPS，Shell 无法直接 push；Obsidian Git 插件或换到 GitHub 后可正常推送。
+- 切换到 GitHub：在浏览器创建私有仓库后，把仓库 URL 提供给 AI，执行 `git remote set-url origin <url>` 即可；PAT 在 Obsidian Git 中配置。
