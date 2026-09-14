@@ -1,0 +1,397 @@
+﻿{
+    "nodes":  [
+                  {
+                      "id":  "vault",
+                      "type":  "file",
+                      "x":  -880,
+                      "y":  -80,
+                      "width":  220,
+                      "height":  100,
+                      "color":  "4",
+                      "file":  "_graph/MC 项目总览.md"
+                  },
+                  {
+                      "id":  "bc",
+                      "type":  "file",
+                      "file":  "_graph/Bonded Companions.md",
+                      "x":  -520,
+                      "y":  -80,
+                      "width":  260,
+                      "height":  100,
+                      "color":  "4"
+                  },
+                  {
+                      "id":  "product",
+                      "type":  "file",
+                      "file":  "_graph/产品与玩法.md",
+                      "x":  -100,
+                      "y":  -360,
+                      "width":  250,
+                      "height":  100,
+                      "color":  "2"
+                  },
+                  {
+                      "id":  "tech",
+                      "type":  "file",
+                      "file":  "_graph/技术架构.md",
+                      "x":  -100,
+                      "y":  -120,
+                      "width":  250,
+                      "height":  100,
+                      "color":  "5"
+                  },
+                  {
+                      "id":  "art",
+                      "type":  "file",
+                      "file":  "_graph/美术与内容.md",
+                      "x":  -100,
+                      "y":  120,
+                      "width":  250,
+                      "height":  100,
+                      "color":  "3"
+                  },
+                  {
+                      "id":  "delivery",
+                      "type":  "file",
+                      "file":  "_graph/开发与交付.md",
+                      "x":  -100,
+                      "y":  360,
+                      "width":  250,
+                      "height":  100,
+                      "color":  "1"
+                  },
+                  {
+                      "id":  "readme",
+                      "type":  "file",
+                      "file":  "bonded_companions/README.md",
+                      "x":  320,
+                      "y":  -560,
+                      "width":  260,
+                      "height":  120
+                  },
+                  {
+                      "id":  "prd",
+                      "type":  "file",
+                      "file":  "bonded_companions/PRD.md",
+                      "x":  320,
+                      "y":  -400,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "2"
+                  },
+                  {
+                      "id":  "recipes",
+                      "type":  "file",
+                      "file":  "bonded_companions/RECIPES.md",
+                      "x":  680,
+                      "y":  -400,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "2"
+                  },
+                  {
+                      "id":  "spec",
+                      "type":  "file",
+                      "file":  "bonded_companions/Tech-Spec.md",
+                      "x":  320,
+                      "y":  -160,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "5"
+                  },
+                  {
+                      "id":  "artdoc",
+                      "type":  "file",
+                      "file":  "bonded_companions/ART-DIRECTION.md",
+                      "x":  320,
+                      "y":  80,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "3"
+                  },
+                  {
+                      "id":  "rules",
+                      "type":  "file",
+                      "file":  "bonded_companions/DEVELOPMENT-RULES.md",
+                      "x":  320,
+                      "y":  320,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "1"
+                  },
+                  {
+                      "id":  "status",
+                      "type":  "file",
+                      "file":  "bonded_companions/IMPLEMENTATION-STATUS.md",
+                      "x":  680,
+                      "y":  240,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "1"
+                  },
+                  {
+                      "id":  "memory",
+                      "type":  "file",
+                      "file":  "bonded_companions/MEMORY.md",
+                      "x":  680,
+                      "y":  400,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "1"
+                  },
+                  {
+                      "id":  "agents",
+                      "type":  "file",
+                      "file":  "bonded_companions/AGENTS.md",
+                      "x":  680,
+                      "y":  560,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "1"
+                  },
+                  {
+                      "id":  "curios",
+                      "type":  "file",
+                      "file":  "curios_headwear_slot/README.md",
+                      "x":  -520,
+                      "y":  160,
+                      "width":  260,
+                      "height":  100,
+                      "color":  "6"
+                  },
+                  {
+                      "id":  "comparison",
+                      "type":  "file",
+                      "file":  "mod_comparison_mechanomania/REPORT.md",
+                      "x":  -520,
+                      "y":  440,
+                      "width":  260,
+                      "height":  100,
+                      "color":  "6"
+                  },
+                  {
+                      "id":  "side",
+                      "type":  "file",
+                      "file":  "_graph/周边项目与补丁.md",
+                      "x":  -880,
+                      "y":  200,
+                      "width":  260,
+                      "height":  100,
+                      "color":  "6"
+                  },
+                  {
+                      "id":  "toollist",
+                      "type":  "file",
+                      "file":  "MC 模组开发工具清单.md",
+                      "x":  -880,
+                      "y":  360,
+                      "width":  260,
+                      "height":  100,
+                      "color":  "5"
+                  },
+                  {
+                      "id":  "exec",
+                      "type":  "file",
+                      "file":  "bonded_companions/DEVELOPMENT-EXECUTION-PLAN.md",
+                      "x":  320,
+                      "y":  520,
+                      "width":  260,
+                      "height":  120,
+                      "color":  "4"
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "e01",
+                      "fromNode":  "vault",
+                      "fromSide":  "right",
+                      "toNode":  "bc",
+                      "toSide":  "left",
+                      "label":  "核心项目"
+                  },
+                  {
+                      "id":  "e02",
+                      "fromNode":  "vault",
+                      "fromSide":  "bottom",
+                      "toNode":  "curios",
+                      "toSide":  "left",
+                      "label":  "周边配置"
+                  },
+                  {
+                      "id":  "e04",
+                      "fromNode":  "vault",
+                      "fromSide":  "bottom",
+                      "toNode":  "comparison",
+                      "toSide":  "left",
+                      "label":  "研究资料"
+                  },
+                  {
+                      "id":  "e05",
+                      "fromNode":  "bc",
+                      "fromSide":  "right",
+                      "toNode":  "product",
+                      "toSide":  "left",
+                      "label":  "产品域"
+                  },
+                  {
+                      "id":  "e06",
+                      "fromNode":  "bc",
+                      "fromSide":  "right",
+                      "toNode":  "tech",
+                      "toSide":  "left",
+                      "label":  "工程域"
+                  },
+                  {
+                      "id":  "e07",
+                      "fromNode":  "bc",
+                      "fromSide":  "right",
+                      "toNode":  "art",
+                      "toSide":  "left",
+                      "label":  "视觉域"
+                  },
+                  {
+                      "id":  "e08",
+                      "fromNode":  "bc",
+                      "fromSide":  "right",
+                      "toNode":  "delivery",
+                      "toSide":  "left",
+                      "label":  "交付域"
+                  },
+                  {
+                      "id":  "e09",
+                      "fromNode":  "bc",
+                      "fromSide":  "top",
+                      "toNode":  "readme",
+                      "toSide":  "left",
+                      "label":  "项目入口"
+                  },
+                  {
+                      "id":  "e10",
+                      "fromNode":  "product",
+                      "fromSide":  "right",
+                      "toNode":  "prd",
+                      "toSide":  "left",
+                      "label":  "产品事实来源"
+                  },
+                  {
+                      "id":  "e11",
+                      "fromNode":  "product",
+                      "fromSide":  "right",
+                      "toNode":  "recipes",
+                      "toSide":  "left",
+                      "label":  "配方事实来源"
+                  },
+                  {
+                      "id":  "e12",
+                      "fromNode":  "tech",
+                      "fromSide":  "right",
+                      "toNode":  "spec",
+                      "toSide":  "left",
+                      "label":  "实现事实来源"
+                  },
+                  {
+                      "id":  "e13",
+                      "fromNode":  "prd",
+                      "fromSide":  "bottom",
+                      "toNode":  "spec",
+                      "toSide":  "top",
+                      "label":  "约束实现"
+                  },
+                  {
+                      "id":  "e14",
+                      "fromNode":  "art",
+                      "fromSide":  "right",
+                      "toNode":  "artdoc",
+                      "toSide":  "left",
+                      "label":  "视觉事实来源"
+                  },
+                  {
+                      "id":  "e15",
+                      "fromNode":  "prd",
+                      "fromSide":  "bottom",
+                      "toNode":  "artdoc",
+                      "toSide":  "top",
+                      "label":  "决定用途"
+                  },
+                  {
+                      "id":  "e16",
+                      "fromNode":  "spec",
+                      "fromSide":  "bottom",
+                      "toNode":  "artdoc",
+                      "toSide":  "top",
+                      "label":  "限制渲染"
+                  },
+                  {
+                      "id":  "e17",
+                      "fromNode":  "delivery",
+                      "fromSide":  "right",
+                      "toNode":  "rules",
+                      "toSide":  "left",
+                      "label":  "发布门禁"
+                  },
+                  {
+                      "id":  "e18",
+                      "fromNode":  "delivery",
+                      "fromSide":  "right",
+                      "toNode":  "status",
+                      "toSide":  "left",
+                      "label":  "实现覆盖"
+                  },
+                  {
+                      "id":  "e19",
+                      "fromNode":  "delivery",
+                      "fromSide":  "right",
+                      "toNode":  "memory",
+                      "toSide":  "left",
+                      "label":  "长期决策"
+                  },
+                  {
+                      "id":  "e20",
+                      "fromNode":  "delivery",
+                      "fromSide":  "right",
+                      "toNode":  "agents",
+                      "toSide":  "left",
+                      "label":  "执行约束"
+                  },
+                  {
+                      "id":  "e21",
+                      "fromNode":  "prd",
+                      "fromSide":  "bottom",
+                      "toNode":  "status",
+                      "toSide":  "top",
+                      "label":  "验收对照"
+                  },
+                  {
+                      "id":  "e22",
+                      "fromNode":  "rules",
+                      "fromSide":  "right",
+                      "toNode":  "status",
+                      "toSide":  "left",
+                      "label":  "验证与门禁"
+                  },
+                  {
+                      "id":  "vault-side",
+                      "fromNode":  "vault",
+                      "fromSide":  "right",
+                      "toNode":  "side",
+                      "toSide":  "left",
+                      "label":  "周边项目"
+                  },
+                  {
+                      "id":  "vault-tools",
+                      "fromNode":  "vault",
+                      "fromSide":  "right",
+                      "toNode":  "toollist",
+                      "toSide":  "left",
+                      "label":  "工具清单"
+                  },
+                  {
+                      "id":  "delivery-exec",
+                      "fromNode":  "delivery",
+                      "fromSide":  "right",
+                      "toNode":  "exec",
+                      "toSide":  "left",
+                      "label":  "当前任务卡"
+                  }
+              ]
+}

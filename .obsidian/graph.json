@@ -1,0 +1,93 @@
+{
+    "collapse-filter":  true,
+    "search":  "",
+    "showTags":  false,
+    "showAttachments":  false,
+    "hideUnresolved":  false,
+    "showOrphans":  true,
+    "collapse-color-groups":  true,
+    "colorGroups":  [
+                        {
+                            "query":  "path:bonded_companions",
+                            "color":  {
+                                          "rgb":  10395294,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph",
+                            "color":  {
+                                          "rgb":  12171705,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph/entities",
+                            "color":  {
+                                          "rgb":  10233776,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph/entities/生物",
+                            "color":  {
+                                          "rgb":  5025616,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph/entities/物品",
+                            "color":  {
+                                          "rgb":  48340,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph/entities/附魔",
+                            "color":  {
+                                          "rgb":  15277667,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph/entities/系统",
+                            "color":  {
+                                          "rgb":  16750592,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph/MC 项目总览",
+                            "color":  {
+                                          "rgb":  16761095,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "path:_graph/Bonded Companions",
+                            "color":  {
+                                          "rgb":  16007990,
+                                          "a":  1
+                                      }
+                        },
+                        {
+                            "query":  "file:MC 模组开发工具清单",
+                            "color":  {
+                                          "rgb":  2336036,
+                                          "a":  1
+                                      }
+                        }
+                    ],
+    "collapse-display":  true,
+    "showArrow":  false,
+    "textFadeMultiplier":  0,
+    "nodeSizeMultiplier":  1,
+    "lineSizeMultiplier":  1,
+    "collapse-forces":  true,
+    "centerStrength":  0.518713248970312,
+    "repelStrength":  10,
+    "linkStrength":  1,
+    "linkDistance":  250,
+    "scale":  0.9036020036098459,
+    "close":  true
+}

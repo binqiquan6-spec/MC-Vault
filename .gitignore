@@ -1,0 +1,41 @@
+# Obsidian runtime state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Local backup and excluded content
+.nav-backup/
+useful_recipes_1.21.1_neoforge/
+
+# Installed community plugins (reinstallable)
+.obsidian/plugins/
+
+# Build and tooling caches
+**/build/
+**/.gradle/
+**/run/
+**/out/
+**/bin/
+**/logs/
+
+# Large binaries and generated assets
+**/*.jar
+**/*.zip
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.exe
+**/*.pdf
+**/*.docx
+**/*.bin
+
+# Project source and build configuration stay out of the knowledge repo
+bonded_companions/src/
+bonded_companions/gradle/
+bonded_companions/gradlew
+bonded_companions/gradlew.bat
+bonded_companions/build.gradle
+bonded_companions/settings.gradle
+bonded_companions/gradle.properties
+bonded_companions/LICENSE.txt

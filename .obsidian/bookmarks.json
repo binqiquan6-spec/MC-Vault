@@ -1,0 +1,59 @@
+{
+    "items":  [
+                  {
+                      "type":  "group",
+                      "ctime":  1789367157951,
+                      "title":  "导航",
+                      "items":  [
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157952,
+                                        "path":  "_graph/MC 项目总览.md",
+                                        "title":  "总目录"
+                                    },
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157953,
+                                        "path":  "_graph/entities/Bonded Companions 实体索引.md",
+                                        "title":  "实体索引"
+                                    },
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157954,
+                                        "path":  "bonded_companions/PRD.md",
+                                        "title":  "PRD"
+                                    },
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157955,
+                                        "path":  "bonded_companions/Tech-Spec.md",
+                                        "title":  "Tech-Spec"
+                                    },
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157956,
+                                        "path":  "bonded_companions/IMPLEMENTATION-STATUS.md",
+                                        "title":  "IMPLEMENTATION-STATUS"
+                                    },
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157957,
+                                        "path":  "bonded_companions/DEVELOPMENT-EXECUTION-PLAN.md",
+                                        "title":  "当前任务卡"
+                                    },
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157958,
+                                        "path":  "_graph/MC 项目关系图.canvas",
+                                        "title":  "MC 项目关系图"
+                                    },
+                                    {
+                                        "type":  "file",
+                                        "ctime":  1789367157959,
+                                        "path":  "_graph/Bonded Companions 实体关系图.canvas",
+                                        "title":  "实体关系图"
+                                    }
+                                ]
+                  }
+              ]
+}
