@@ -49,3 +49,13 @@ aliases: [导航报告]
 - E1-01 仍在 `IN_PROGRESS`；本次导航工作未写入 `bonded_companions/**`，不干扰项目开发。
 - E1-01 完成时若更新受保护文档，哈希基线会再次过期，届时刷新即可。
 - Obsidian Git 启用后先关自动提交；CI/自动备份等 E1-01 完成后再开。
+
+
+## 2026-09-14 完成更新
+
+- 10 组图谱颜色已写入 `.obsidian/graph.json`。
+- 导航书签已写入 `.obsidian/bookmarks.json`（总目录、实体索引、PRD、Tech-Spec、STATUS、当前任务卡、两张 Canvas）。
+- Folder Overview、Obsidian Git、Homepage 三个插件已安装并写入启用列表。
+- 总目录已加入 Folder Overview 动态索引代码块（限定 `_graph` 与 `bonded_companions`）。
+- Vault Git 仓库已初始化并完成首次提交：`8dee2f8 Initialize vault navigation system and knowledge base`（157 个文本文件，工作区干净）。
+- Obsidian Git 保持手动模式（自动提交/推送间隔默认 0），不会在 E1-01 期间自动提交。

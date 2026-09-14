@@ -40,3 +40,12 @@
 - External backup currently lives at `.nav-backup/Vault-20260914-133349` (inside the vault because the tool sandbox denies writes outside; move it outside when convenient).
 - Plugin decisions: Folder Overview installed for dynamic folder indexes; Obsidian Git and Homepage recommended; Breadcrumbs is sandbox-only until proven not to write project files.
 - Entry link: [[_graph/MC 项目总览|总目录]]
+
+
+## Navigation Completion Update (2026-09-14)
+
+- Ten graph color groups and the navigation bookmark group were written to `.obsidian` while Obsidian was closed.
+- Folder Overview, Obsidian Git and Homepage are installed and enabled from `.obsidian/community-plugins.json`.
+- Folder Overview dynamic blocks were added to the master entry for `_graph` and `bonded_companions` only; the excluded folder is never listed.
+- The vault Git repository was initialized with first commit `8dee2f8` (157 text files); build outputs, JARs, PNGs, `.nav-backup`, `useful_recipes_1.21.1_neoforge/` and project source are ignored.
+- Obsidian Git stays in manual mode until E1-01 is DONE.
